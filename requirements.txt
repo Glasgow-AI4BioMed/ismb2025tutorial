@@ -1,7 +1,7 @@
 bioc
 biopython
-pronto
 transformers
 google-generativeai
 spacy
 torch 
+numpy
